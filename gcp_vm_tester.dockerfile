@@ -1,2 +1,2 @@
-FROM gcr.io/deeplearning-platform-release/pytorch-gpu.1-12
+FROM gcr.io/deeplearning-platform-release/pytorch-cpu
 RUN pip install matplotlib
